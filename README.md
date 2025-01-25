@@ -19,16 +19,20 @@ A **Sr. Cloud Architect** passionate about **AI Agents** that go beyond answerin
 
 ### 💡 What I Work On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-IaaS/PaaS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Synapse-Pipelines-217346?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
+- ☁️ **Cloud Architecture**  
+  <img src="https://img.shields.io/badge/Azure-IaaS/PaaS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>  
+  Expertise in **Azure IaaS/PaaS**, **AKS**,**Databricks** and **Azure Synapse Pipelines**.
 
-- **Cloud Architecture**: Expertise in **Azure IaaS/PaaS**, **AKS**, **Databricks**, and **Synapse Pipelines**.
-- **LLM Agent Frameworks**: Hands-on experience with **Autogen**, **CrewaAI**, **LangChain**, and **Semantic Kernel**.
-- **AI Models**: Working with **Azure OpenAI**, **OpenAI**, **Deepseek**, and **Vision Models**.
-- **Programming Languages**: Proficient in **Python** and **Rust**.
+- 🤖 **LLM Agent Frameworks**  
+  <img src="https://img.shields.io/badge/Frameworks-Autogen,%20CrewaAI,%20LangChain,%20Semantic%20Kernel-FF6F00?style=flat-square&logo=openai&logoColor=white"/>  
+
+- 🔍 **AI Models**  
+  <img src="https://img.shields.io/badge/Models-Azure%20OpenAI,%20OpenAI,%20Deepseek,%20Vision%20Models-00C7B7?style=flat-square&logo=azure-devops&logoColor=white"/>  
+
+- 🛠️ **Programming Languages**  
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Rust-3776AB?style=flat-square&logo=python&logoColor=white"/>  
+
+
 
 ---
 
