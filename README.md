@@ -18,7 +18,7 @@ I'm **Vraj Routu**, a **Sr. Cloud Architect** with a passion for **AI Agents** a
 - 🛠️ **Programming Languages**: Skilled in **Python** and **Rust**.
 - 🚀 **Active Projects**:
   - **Home AI Agent Automation**: Developing end-to-end automation for a seamless smart home experience.
-  - **Intelligent Stock Analyst Agent**: Building an AI-driven tool for stock analysis and insights.
+  - **Intelligent Stock Analyst Agent**: Building an AI-driven tool for stock analysis and insights and execute BUY & SELL Orders.
 
 ---
 
