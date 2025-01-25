@@ -68,18 +68,6 @@ A **Sr. Cloud Architect** passionate about **AI Agents** that go beyond answerin
   </a>
 </p>
 
----
-
-### 🌟 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/vrajroutu/KnowledgeGraphs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrajroutu&repo=Home-AI-Agent&theme=radical" alt="KnowledgeGraphs" width="400"/>
-  </a>
-  <a href="https://github.com/vrajroutu/AlphaAIQuant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrajroutu&repo=Stock-Analyst-Agent&theme=radical" alt="AlphaAIQuant" width="400"/>
-  </a>
-</p>
 
 ---
 
