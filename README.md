@@ -23,7 +23,7 @@ A **Sr. Cloud Architect** passionate about **AI Agents** that go beyond answerin
   <img src="https://img.shields.io/badge/Frameworks-Autogen,%20CrewaAI,%20LangChain,%20Semantic%20Kernel-FF6F00?style=flat-square&logo=openai&logoColor=white"/>  
 
 - 🔍 **AI Models**  
-  <img src="https://img.shields.io/badge/Models-Azure%20OpenAI,%20OpenAI,%20Deepseek,%20Vision%20Models-00C7B7?style=flat-square&logo=azure-devops&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Models-Azure%20OpenAI,%20OpenAI,%20Llama,%20Vision%20Models-00C7B7?style=flat-square&logo=azure-devops&logoColor=white"/>  
 
 - 🛠️ **Programming Languages**  
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Rust-3776AB?style=flat-square&logo=python&logoColor=white"/>  
