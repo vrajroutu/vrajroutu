@@ -1,9 +1,5 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58345123/231180293-09d6eb26-e9b2-4821-89a4-b34d17ab643b.gif" alt="Welcome Gif" width="500"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
