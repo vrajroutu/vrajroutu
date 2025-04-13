@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 Hi, I’m **Vraj Routu**! 
-A **Sr. Cloud Architect** with a passion for building **AI Agents** that transcend traditional question-answering systems. My focus is on creating intelligent systems that **perform tasks**, deliver **actionable insights**, and **simplify complex workflows**. I thrive at the intersection of **cloud computing** and **artificial intelligence**, where I push the boundaries of automation and innovation.
+A **Sr. Architect** with a passion for building **AI Agents** that transcend traditional question-answering systems. My focus is on creating intelligent systems that **perform tasks**, deliver **actionable insights**, and **simplify complex workflows**. I thrive at the intersection of **cloud computing** and **artificial intelligence**, where I push the boundaries of automation and innovation.
 
 - 🔭 **Mission**: To architect **end-to-end AI-driven solutions** that solve real-world challenges and drive meaningful impact.
 - 🌱 **Currently Exploring**: Advanced LLM Agent Frameworks, Smart Home Automation, and Intelligent Task Execution.
