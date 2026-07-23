@@ -1,7 +1,7 @@
 <h1 align="center">Vraj Routu</h1>
 
 <p align="center">
-  <b> Rust Developer &nbsp;&middot;&nbsp; AI Systems Dev</b>
+  <b> Rust and AI Systems Dev</b>
 </p>
 
 <p align="center">
